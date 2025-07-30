@@ -16,8 +16,8 @@ In the `programs` directory, you'll find a collection of simple C++ programs, li
 - 🧠 Memory Management
 - 📂 File handling
 - 🔗 Multi-threading
-- 🎭 Templates
-- 🛑 Error handling
+- 🎭 Templates      (🚧 under construction 🚧)
+- 🛑 Error handling (🚧 under construction 🚧)
 - And more!
 
 Feel free to explore the programs, run them, and modify them to see how different changes affect the output.
