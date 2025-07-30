@@ -12,7 +12,7 @@ In the `programs` directory, you'll find a collection of simple C++ programs, li
 
 - 📘 Classes and objects
 - ✨ Object Oriented Programming Methods
-- 🛒 STD Containers
+- 🛒 Data Structures & STD Containers
 - 🧠 Memory Management
 - 📂 File handling
 - 🔗 Multi-threading
