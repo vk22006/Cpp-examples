@@ -1,0 +1,9 @@
+{
+    "age": 30,
+    "dept": [
+        "Finance",
+        "Lead Accountant"
+    ],
+    "name": "John doe",
+    "salary": 55000
+}
